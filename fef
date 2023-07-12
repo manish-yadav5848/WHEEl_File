@@ -5,3 +5,19 @@ SELECT  coalesce(nullif(trim(pt.client_id),''),'-9999') as client_id,coalesce(nu
 Hi Grace,
 Could you please send the NQ Transaction for below date range in PROD over the weekend so that it would be easier for us to load the complete historical nq transaction in one go .
                Date range: – 06/30/2023 – 07/14/2023
+
+
+
+Subject: Urgent Request: NQ Transaction Data - Date Range: 06/30/2023 to 07/14/2023
+
+Dear [Recipient's Name],
+
+Could you please provide the NQ Transaction data for the date range of June 30, 2023, to July 14, 2023, in the PROD environment over the weekend? This will greatly simplify the process of loading the complete historical NQ transactions in one go.
+
+Your assistance in fulfilling this request is highly appreciated. If there are any concerns or constraints, please let me know so that we can discuss alternative arrangements.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+[Your Name
